@@ -1,11 +1,11 @@
 body {
-    background-color: bisque;
+    background-color: hsl(329, 78%, 70%);
     font-family: Bai Jamjuree;
 }
 
 footer {
     background-color: black;
-    color: white;
+    color: #49d1d6;
     position: fixed;
     bottom: 0;
     width: 100%;
